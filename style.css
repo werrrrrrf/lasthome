@@ -308,6 +308,11 @@ span{
     #menu-icon{
         display: block;
     }
+    .icons{
+        display: block;
+        position: absolute;
+        bottom: 80%;
+    }
     .hero{
         min-width: 600px;
         min-height: 1100px;
