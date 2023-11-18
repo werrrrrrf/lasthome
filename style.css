@@ -308,6 +308,10 @@ span{
     #menu-icon{
         display: block;
     }
+    .hero{
+        min-width: 600px;
+        min-height: 1100px;
+    }
     .navlist{
         position: absolute;
         top: 100%;
