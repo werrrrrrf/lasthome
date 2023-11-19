@@ -305,6 +305,9 @@ span{
 }
 
 @media (max-width: 990px){
+    section{
+        height: 1200px;
+    }
     #menu-icon{
         display: block;
     }
