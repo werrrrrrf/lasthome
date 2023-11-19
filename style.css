@@ -305,10 +305,6 @@ span{
 }
 
 @media (max-width: 990px){
-    section{
-        max-height: max-content;
-    }
-        max-height: 
     #menu-icon{
         display: block;
     }
